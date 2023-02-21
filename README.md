@@ -1,4 +1,4 @@
-# Sentimenyt Analysis of Carbon Credits
+# Sentiment Analysis of Carbon Credits
 
 * Sentiment Analysis is the process of detecting the emotion (positive or negative) or perception in a text
 * In our case, we want to **understand the overall perception of carbon credits in the market, using data from twitter**.
